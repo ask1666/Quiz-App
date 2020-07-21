@@ -3,4 +3,7 @@
 	url = https://github.com/ask1666/quizoolo-website.git
 [submodule "quizoolo-website"]
 	path = quizoolo-website
+	url = https://github.com/ask1666/quizoolo-website.git
+[submodule "quizREST"]
+	path = quizREST
 	url = https://github.com/ask1666/quizREST.git
